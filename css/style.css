@@ -17,3 +17,7 @@ html{
 .header > h1{
     color: white;
 }
+
+.footer{
+    background-color: blue;
+}
